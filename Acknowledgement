@@ -1,0 +1,11 @@
+Acknowledgement of Assistance
+
+Chat GPT. Assistance given to author, digital discussion. I asked Chat GPT how to optimize soft margin SBM’s in order to remind me of the process. Then I ran a grid search soft margin SVM to try and find an optimal C value for my model. ChatGPT produced the code to do this. I then uploaded the results of the grid search and instructed it to produce a model using that C value. After my first submission, I uploaded the results on the leaderboard and asked ChatGPT for advice and to improve my scores. It recommended using a radio basis function SVM. This improved my position on the leaderboard however, I asked it to keep improving. At this point, it ran three different models all of which I uploaded as submissions. These three models use different approaches to represent the test data itself, so as to better draw out differences. The best approach here was the histograms of oriented gradient, which performed extremely well. After this, I instructed ChatGPT to run a grid search on the hyper parameters of the RBF model using the hog features. A link to my conversation can be found here: https://chatgpt.com/share/6acf9a26-642c-83ea-b0b4-d585b5d24ac2. 
+
+Video. Assistance given to author, video. I used this video to understand how Histogram of Oriented Gradients (HOG) works. A link to the video can be found here: Histogram of Oriented Gradients (HOG) | By Dr. Ry @Stemplicity.
+
+Video. Assistance given to author, video. I used this video to understand how Radial Basic Function Kernels work. A link to the video can be found here: Support Vector Machines Part 3: The Radial (RBF) Kernel (Part 3 of 3).
+
+
+
+
