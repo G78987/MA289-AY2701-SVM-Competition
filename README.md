@@ -1,10 +1,10 @@
 # MA289-AY2701-SVM-Competition
 
-README: A concise summary of:
+README: 
 
 The problem and prediction goal:The goal of this project was to predict whether or not the audio file said six or seven. The audio file was represented as a spectrogram, and so the modeling task was to differentiate spectrograms so as to recognize sixes and sevens. 
 
-The model(s) used: In order to do this, I used a SVM with a Radio basis, function and histogram of oriented gradients. This method allowed me to draw out differences in the training, data set and look for high dimensional ways of separating the data.
+The model(s) used: In order to do this, I used a SVM with a Radial Basis Function and Histogram of Oriented Gradients. This method allowed me to draw out differences in the training data set and use a infinite dimensions to separate the data.
 
 Your validation approach: To validate my approach, I used cross validation. This allowed me to test my findings without reducing the training data amount.
 
